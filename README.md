@@ -238,30 +238,3 @@ There are 466 multiples of 3 and 5 that are less than 1000.
 Their sum is 233168.
 ```
 
-### countVowels
-The input to **countVowels** will be string.  Your function should log the string as well as the number of vowels in that string.
-
-Input:
-
-```
-Hello
-```
-
-Output:
-```
-You entered 'Hello'.
-It has 2 vowels.
-```
----
-
-Input:
-
-```
-My name is Sarah.
-```
-
-Output:
-```
-You entered 'My name is Sarah.'.
-It has 6 vowels.
-```
